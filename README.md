@@ -1,4 +1,5 @@
 # 🗃️ Chat with Your Database
+## 🚀 Live Demo: [Click Here](https://chat-db-harsh-pilania.streamlit.app/)
 
 A powerful Streamlit application that allows you to interact with your MySQL database using natural language queries powered by AI. Simply ask questions in plain English and get instant results from your database!
 
