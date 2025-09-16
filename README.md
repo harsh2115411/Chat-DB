@@ -113,17 +113,6 @@ The AI will:
 3. Execute them on your database
 4. Present results in a readable format
 
-## 📸 Screenshots
-
-### Home Page
-*The main interface showing database connection fields*
-
-![Home Page](https://via.placeholder.com/800x500/1E1E2E/FFFFFF?text=Streamlit+Database+Chat+Interface)
-
-### Sample Conversation
-*Example of natural language database interaction*
-
-![Chat Example](https://via.placeholder.com/800x400/2E3440/FFFFFF?text=Chat+Interface+Example)
 
 ## 🔒 Security Notes
 
