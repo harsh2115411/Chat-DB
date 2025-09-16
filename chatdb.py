@@ -18,6 +18,8 @@ st.title("Chat with Your Database")
 st.markdown("Use this agent to chat with your MySQL local database")
 
 st.sidebar.title("Database Connection")
+st.sidebar.info("💡 Find your MySQL credentials from the home page of your MySQL Workbench.")
+
 mysql_host = st.sidebar.text_input("Provide MySQL Host", placeholder=" for eg :- localhost:3306")
 mysql_user = st.sidebar.text_input("MySQL User", placeholder=" for eg :- root")
 mysql_password = st.sidebar.text_input("MySQL Password", type="password")
@@ -90,3 +92,4 @@ try:
 
 except Exception as e:
     st.error(f" Fatal error initializing app: {str(e)}")
+
