@@ -1,5 +1,7 @@
 # 🗃️ Chat with Your Local MySQL Database
 ## 🚀 Demo Video: [Click Here](https://drive.google.com/file/d/1kz2gqfoaEissVd420Gf8Gbjh9d-jsQUl/view?usp=sharing)
+![Chat-DB](assets/chatDB.png)
+
 
 Transform your local MySQL database interactions with AI! This Streamlit application runs entirely on your local machine, letting you query your local database using plain English - no SQL knowledge required. Just connect to your local MySQL server and start asking questions like "Who are my top customers?" or "What's the average sales this month?"
 
