@@ -1,5 +1,6 @@
 # 🗃️ Chat with Your Local MySQL Database
 ## 🚀 Demo Video: [Click Here](https://drive.google.com/file/d/1kz2gqfoaEissVd420Gf8Gbjh9d-jsQUl/view?usp=sharing)
+## Home Page:
 ![Chat-DB](assests/chatDB.png)
 
 
